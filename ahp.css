@@ -8,8 +8,6 @@ background-color:#E4F9F5;
  width:200px;
   height:200px; 
   border:solid 10px;
-  paddind:20px;
-  align:left;
 }
 .middles
 {
@@ -17,7 +15,6 @@ background-color:#E4F9F5;
   width:200px;
   height:200px;
   border:solid 20px;
-  align:center;
   margin-left:210px; 
   
 }
@@ -27,6 +24,5 @@ background-color:#E4F9F5;
   width:200px;
   height:200px;
   border:solid 10px;
-  align:right;
   margin-left:430px;
 }
