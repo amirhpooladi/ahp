@@ -7,7 +7,7 @@ background-color:#E4F9F5;
   background-color:red;
  width:200px;
   height:200px; 
-  border:10px;
+  border:solid 10px;
   paddind:20px;
   align:left;
 }
@@ -16,7 +16,7 @@ background-color:#E4F9F5;
   background-color:yellow;
   width:200px;
   height:200px;
-  border:20px;
+  border:solid 20px;
   align:center;
   
 }
@@ -25,6 +25,6 @@ background-color:#E4F9F5;
   background-color:blue;
   width:200px;
   height:200px;
-  border:10px;
+  border:solid 10px;
   align:right;
 }
