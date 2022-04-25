@@ -2,3 +2,15 @@ div{
 background-color:#E4F9F5;
   margin:0;
 }
+.tops
+{
+  background-color:red;
+  width:200px;
+  height:200px;
+}
+.bottoms
+{
+  background-color:blue;
+  width:200px;
+  height:200px;
+}
