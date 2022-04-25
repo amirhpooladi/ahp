@@ -18,6 +18,7 @@ background-color:#E4F9F5;
   height:200px;
   border:solid 20px;
   align:center;
+  margin-left:210px;
   
 }
 .bottoms
@@ -27,4 +28,5 @@ background-color:#E4F9F5;
   height:200px;
   border:solid 10px;
   align:right;
+  margin-left:430px;
 }
