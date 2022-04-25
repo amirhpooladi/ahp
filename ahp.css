@@ -4,7 +4,7 @@ background-color:#E4F9F5;
 }
 .total 
 {
-  display:inline;
+ 
 .tops
 {
   background-color:red;
@@ -17,4 +17,5 @@ background-color:#E4F9F5;
   width:200px;
   height:200px; 
 } 
+   display:inline;
 }
