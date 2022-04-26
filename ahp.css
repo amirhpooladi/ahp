@@ -2,20 +2,18 @@ div{
 background-color:#E4F9F5;
   margin:0;
 }
-.total 
-{
  
 .tops
 {
   background-color:red;
  width:200px;
   height:200px; 
+   display:inline-block;
 }
 .middles
 {
   background-color:yellow;
   width:200px;
   height:200px; 
-} 
    display:inline-block;
-}
+} 
